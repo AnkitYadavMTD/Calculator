@@ -1,2 +1,2 @@
-# https://ankityadavmtd.github.io/Calculator.github.io/
+# https://ankityadavmtd.github.io/Calculator/
 A calculator
